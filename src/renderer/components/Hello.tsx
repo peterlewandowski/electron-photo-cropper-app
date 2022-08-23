@@ -12,7 +12,7 @@ export default function Hello() {
             <span role="img" aria-label="books">
               📚
             </span>
-            Read our docs
+            Photo
           </button>
         </Link>
       </div>
